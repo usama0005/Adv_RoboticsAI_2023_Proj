@@ -36,6 +36,11 @@ You need to download the [yolo pretrained weights](https://pjreddie.com/media/fi
 
 # How to Run:
 1. First run the requirements.txt file on terminal to isntall necessary packages using command:
+2. ```
+git status
+git add
+git commit
+```
 ```
 pip install -r requirements.txt python ```
 
