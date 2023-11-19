@@ -32,3 +32,10 @@ We can use bx & by relative to W & H to determine the position of the objects de
 
 ### **Note**:
 You need to download the [yolo pretrained weights](https://pjreddie.com/media/files/yolov3.weights) and place it inside yolo folder to get started with the code.
+
+
+# How to Run:
+1. First run the requirements.txt file on terminal to isntall necessary packages using command: pip install -r requirements.txt
+2. Run the script.py from terminal using command: python script.py -i images/bottom.jpg -y yolo
+
+
