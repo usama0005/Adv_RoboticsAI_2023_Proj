@@ -40,9 +40,7 @@ You need to download the [yolo pretrained weights](https://pjreddie.com/media/fi
 pip install -r requirements.txt python 
 ```
 
-
-
-3. Run the script.py from terminal using command: 
-
+2. Run the script.py from terminal using command: 
+```
 python script.py -i images/bottom.jpg -y yolo
-
+```
