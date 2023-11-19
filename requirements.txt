@@ -1,0 +1,21 @@
+opencv-python
+torch
+pyttsx3
+#pip install opencv-python-headless pyttsx3 gtts torch numpy ultralytics
+#sudo apt-get install espeak
+# pip install SpeechRecognition
+# sudo apt-get install portaudio19-dev
+# # For Linux
+# sudo apt-get install portaudio19-dev
+# source .venv/bin/activate
+# # For Windows
+# pip install pyaudio
+pip install pygame
+pip install matplotlib
+pip install pygame Pillow
+ pip install opencv-python
+ pip install imageio
+ pip install pyautogui
+
+
+
