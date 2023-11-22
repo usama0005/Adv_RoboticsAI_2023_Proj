@@ -42,7 +42,7 @@ pip install -r requirements.txt python
 
 2. Run the script.py from terminal using command: 
 ```
-python script.py -i images/bottom.jpg -y yolo
+python script.py -i images/0.jpg -y yolo
 ```
 ## Installation Instructions
 
@@ -64,7 +64,7 @@ cd Adv_RoboticsAI_2023_Proj
 
 ### Step 2: Download YOLO Pretrained Weights
 
-Download the YOLO pretrained weights and place the file inside the 'yolo' folder. You can obtain the weights file from [YOLO website](https://yolov3.weights).
+Download the YOLO pretrained weights and place the file inside the 'yolo' folder: Adv_RoboticsAI_2023_Proj/yolo/yolov3.weights. You can obtain the weights file from [YOLO website]([https://yolov3.weights](https://pjreddie.com/media/files/yolov3.weights).
 
 ### Step 3: Set Up Virtual Environment (Optional but Recommended)
 
