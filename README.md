@@ -98,10 +98,10 @@ pip install -r requirements.txt
 Now, you can run the script using the following command:
 
 ```bash
-python script.py -i images/bottom.jpg -y yolo
+python script.py -i images/0.jpg -y yolo
 ```
 
-Replace 'images/bottom.jpg' with the path to the image you want to analyze.
+Replace 'images/0.jpg' with the path to the image you want to analyze.
 
 The script will process the image using the YOLO v3 model, and you should hear voice feedback describing the detected objects.
 
