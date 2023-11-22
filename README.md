@@ -64,7 +64,7 @@ cd Adv_RoboticsAI_2023_Proj
 
 ### Step 2: Download YOLO Pretrained Weights
 
-Download the YOLO pretrained weights and place the file inside the 'yolo' folder: Adv_RoboticsAI_2023_Proj/yolo/yolov3.weights. You can obtain the weights file from [YOLO website]([https://yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)).
+Download the YOLO pretrained weights and place the file inside the 'yolo' folder: Adv_RoboticsAI_2023_Proj/yolo/yolov3.weights. You can obtain the weights file [yolo pretrained weights](https://pjreddie.com/media/files/yolov3.weights).
 
 ### Step 3: Set Up Virtual Environment (Optional but Recommended)
 
