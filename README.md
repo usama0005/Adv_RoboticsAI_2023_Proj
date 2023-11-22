@@ -44,3 +44,65 @@ pip install -r requirements.txt python
 ```
 python script.py -i images/bottom.jpg -y yolo
 ```
+## Installation Instructions
+
+Before running the script, make sure to follow these installation steps:
+
+### Step 1: Clone the Repository
+
+Clone the project repository from [https://github.com/usama0005/Adv_RoboticsAI_2023_Proj.git](https://github.com/usama0005/Adv_RoboticsAI_2023_Proj.git):
+
+```bash
+git clone https://github.com/usama0005/Adv_RoboticsAI_2023_Proj.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd Adv_RoboticsAI_2023_Proj
+```
+
+### Step 2: Download YOLO Pretrained Weights
+
+Download the YOLO pretrained weights and place the file inside the 'yolo' folder. You can obtain the weights file from [YOLO website](https://yolov3.weights).
+
+### Step 3: Set Up Virtual Environment (Optional but Recommended)
+
+While not mandatory, it is recommended to use a virtual environment to isolate dependencies for this project. Create a virtual environment using the following commands:
+
+```bash
+python -m venv venv
+```
+
+Activate the virtual environment:
+
+- On Windows:
+  ```bash
+  .\venv\Scripts\activate
+  ```
+- On macOS/Linux:
+  ```bash
+  source venv/bin/activate
+  ```
+
+### Step 4: Install Dependencies
+
+Run the following command to install the required packages from the 'requirements.txt' file:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 5: Run the Script
+
+Now, you can run the script using the following command:
+
+```bash
+python script.py -i images/bottom.jpg -y yolo
+```
+
+Replace 'images/bottom.jpg' with the path to the image you want to analyze.
+
+The script will process the image using the YOLO v3 model, and you should hear voice feedback describing the detected objects.
+
+**Note**: Ensure you have Python installed on your system before proceeding with these steps.
