@@ -26,6 +26,7 @@ def display_image(image):
 
 
 
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("-i", "--image", required=True,
