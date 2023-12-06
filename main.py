@@ -1,6 +1,7 @@
 from ultralytics import YOLO
 import pyttsx3
 
+
 def detect_objects_and_announce(image_path):
     # Load YOLO model
     model = YOLO("models/yolov5mu.pt")
